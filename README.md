@@ -1,11 +1,14 @@
-## Hi there 👋
+## Hi! My name is Tanzeela
+
+I am a Computer Science Major with a Management Information Systems minor at George Mason University, on track to graduate in 2027.
+
+My interests lie in the combination of Business and Tech, and I am willing to explore different tech fields as a previous SDE intern at Amazon!
+
+- 🔭 I’m currently working on a fellowship with Break Through Tech with Cornell Tech where I am learning Machine Learning Foundations.
 
 <!--
-**tanzeelavirk/tanzeelavirk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
