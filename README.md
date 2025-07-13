@@ -1,4 +1,4 @@
-# Hi, I'm Tanzeela!
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&pause=1000&color=FFEB00&width=435&lines=Hi%2C+I'm+Tanzeela!)](https://git.io/typing-svg)
 
 Computer Science Major, Management Information Systems Minor at George Mason University  
 Passionate about the intersection of Business and Technology
