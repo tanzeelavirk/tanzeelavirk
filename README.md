@@ -47,3 +47,5 @@ Organized | Extroverted | Determined | Calendar-obsessed
 
 - Email: tanzeelavirksch@gmail.com  
 - [LinkedIn](https://linkedin.com/in/tanzeelavirk)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=tanzeelavirk&theme=javascript&hide_border=true&hide_current_streak=true)](https://git.io/streak-stats)
