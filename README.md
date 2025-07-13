@@ -1,7 +1,7 @@
-# Hi, I'm Tanzeela
+# Hi, I'm Tanzeela!
 
 Computer Science Major, Management Information Systems Minor at George Mason University
-/n 
+\n 
 Passionate about the intersection of Business and Technology
 /n
 
