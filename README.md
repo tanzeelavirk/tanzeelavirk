@@ -1,21 +1,15 @@
 # Hi, I'm Tanzeela!
 
-Computer Science Major, Management Information Systems Minor at George Mason University
-\n 
+Computer Science Major, Management Information Systems Minor at George Mason University  
 Passionate about the intersection of Business and Technology
-/n
-
-Former Amazon SDE Intern | AI/ML Fellow at Break through Tech x Cornell Tech | Amazon Future Engineer Scholar | NASA Virginia Space Coast Scholar
 
 Organized | Extroverted | Determined | Calendar-obsessed
-
 
 ### Currently Working On
 
 - Machine Learning Foundations Fellowship with Break Through Tech x Cornell Tech
 - Building a mentorship-style platform that helps students navigate tech careers with free, guided support
 - Mentoring rising college freshmen as an Amazon Future Engineer Ambassador
-- Gaining experience in product thinking, leadership, and machine learning beyond SDE work
 
 ### Projects
 
@@ -35,7 +29,7 @@ Organized | Extroverted | Determined | Calendar-obsessed
 - I co-own a small dessert business with my sisters
 - Die-hard Dallas Cowboys fan
 - Love being busy, better stressed than bored😤
-- Current favorite emoji: 
+- Current favorite emoji: 😛
 
 ### Let's Connect
 
