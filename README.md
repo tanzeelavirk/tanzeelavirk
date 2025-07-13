@@ -13,15 +13,27 @@ Organized | Extroverted | Determined | Calendar-obsessed
 
 ### Projects
 
-- DermAware
-  Skin condition detection app built with Swift & CreateML to provide users with AI-driven diagnoses and safety tips
+- DermAware - Skin condition detection app built with Swift & CreateML to provide users with AI-driven diagnoses and safety tips
 
-- Dough-ya Know?* 
-  An interactive app for financial literacy, built with a gamified interface to help students understand budgeting and saving
+- Dough-ya Know? - An interactive app for financial literacy, built with a gamified interface to help students understand budgeting and saving
 
 - Some more being coded...🤫
 
 *GitHub links coming soon!*
+
+### Skills
+
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="40" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" />
 
 ### Fun Facts
 
@@ -34,4 +46,4 @@ Organized | Extroverted | Determined | Calendar-obsessed
 ### Let's Connect
 
 - Email: tanzeelavirksch@gmail.com  
-- LinkedIn: [linkedin.com/in/tanzeelavirk](https://linkedin.com/in/tanzeelavirk)
+- [LinkedIn](https://linkedin.com/in/tanzeelavirk)
