@@ -8,7 +8,7 @@ Organized | Extroverted | Determined | Calendar-obsessed
 ### Currently Working On
 
 - Machine Learning Foundations Fellowship with Break Through Tech x Cornell Tech
-- Building a mentorship-style platform that helps students navigate tech careers with free, guided support
+- Building a platform that amplifies underrepresented fashion as the fashion x tech movement is reaching its peak.
 - Mentoring rising college freshmen as an Amazon Future Engineer Ambassador
 
 ### Projects
