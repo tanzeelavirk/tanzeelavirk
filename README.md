@@ -17,6 +17,8 @@ Organized | Extroverted | Determined | Calendar-obsessed
 
 - Dough-ya Know? - An interactive app for financial literacy, built with a gamified interface to help students understand budgeting and saving
 
+- AirbnbReviewModel - An ML model predicting reviews for new Airbnb listings based on predictors.
+
 - Some more being coded...🤫
 
 *GitHub links coming soon!*
