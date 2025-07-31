@@ -21,8 +21,6 @@ Organized | Extroverted | Determined | Calendar-obsessed
 
 - Some more being coded...🤫
 
-*GitHub links coming soon!*
-
 ### Skills
 
 <p align="left">
