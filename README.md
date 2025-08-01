@@ -19,7 +19,7 @@ Organized | Extroverted | Determined | Calendar-obsessed
 
 - AirbnbReviewModel - An ML model predicting reviews for new Airbnb listings based on predictors.
 
-- Qibla Quick - A website to help easily find the Qibla anywhere for Muslim users.
+- QiblaQuick - A website to help easily find the Qibla anywhere for Muslim users.
 
 - Some more being coded...🤫
 
