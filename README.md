@@ -17,9 +17,9 @@ Organized | Extroverted | Determined | Calendar-obsessed
 
 - Dough-ya Know? - An interactive app for financial literacy, built with a gamified interface to help students understand budgeting and saving
 
-- AirbnbReviewModel - An ML model predicting reviews for new Airbnb listings based on predictors.
+- AirbnbReviewModel - A machine learning model designed to predict review scores for new Airbnb listings using key features such as cleanliness, location, and communication ratings. Helps hosts anticipate guest feedback and optimize listing quality.
 
-- QiblaQuick - A website to help easily find the Qibla anywhere for Muslim users.
+- QiblaQuick - A user-friendly web application that instantly provides the accurate Qibla direction from any location, designed to support Muslim users in fulfilling their daily prayers with ease and confidence.
 
 - Some more being coded...🤫
 
