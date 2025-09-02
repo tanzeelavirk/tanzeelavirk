@@ -10,6 +10,7 @@ Organized | Extroverted | Determined | Calendar-obsessed
 - Machine Learning Foundations Fellowship with Break Through Tech x Cornell Tech
 - Building a platform that amplifies underrepresented fashion as the fashion x tech movement is reaching its peak.
 - Mentoring rising college freshmen as an Amazon Future Engineer Ambassador
+- Personal portfolio website!
 
 ### Projects
 
@@ -42,7 +43,6 @@ Organized | Extroverted | Determined | Calendar-obsessed
 - I create aesthetic content on Pinterest for fun  
 - I co-own a small dessert business with my sisters
 - Die-hard Dallas Cowboys fan
-- Love being busy, better stressed than bored😤
 - Current favorite emoji: 😛
 
 ### Let's Connect
